@@ -1,0 +1,8 @@
+build
+dist
+coverage
+e2e
+node_modules
+src/assets/js/geogebra
+package-lock.json
+documentation.json
